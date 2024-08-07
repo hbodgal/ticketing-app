@@ -1,5 +1,5 @@
 
-##Issues Handled
+#Issues Handled
 Lots of duplicate code: Build a central library as an NPM module to share code between our different projects
 Hard to picture the flow of events: Precisely define all of our events in this shared library.
 Hard to remember what properties events should have: write everything in Typescript.
